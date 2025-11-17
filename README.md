@@ -1,3 +1,33 @@
+# 🎙️ PODCASTS COM IA — DIO + Santander  
+Projeto desenvolvido durante o bootcamp do Santander na DIO, explorando o uso de Inteligência Artificial Generativa para criar um podcast completo — desde o roteiro até a narração e edição final.
+
+---
+
+## 📌 Descrição do Projeto
+
+Este repositório reúne os materiais utilizados e produzidos durante a criação do meu podcast com IA.  
+O objetivo principal foi demonstrar, na prática, como ferramentas modernas de IA podem ser usadas para gerar conteúdo de áudio de forma rápida, organizada e com boa qualidade.
+
+O projeto inclui:
+
+- Geração de roteiros utilizando IA.
+- Criação de narrativas com modelos de voz artificiais.
+- Edição e montagem final do áudio.
+- Organização dos arquivos base e documentação do processo.
+
+---
+
+## 🧠 Tecnologias e Ferramentas Utilizadas
+
+- **ChatGPT / IAs de Linguagem** — Criação e refinamento do roteiro.  
+- **Ferramenta de TTS (Text-to-Speech)** — Conversão do texto para voz.  
+- **Editor de Áudio (Audacity, DaVinci Resolve ou similar)** — Edição final do episódio.  
+- **Git & GitHub** — Controle de versão.  
+- **Bootcamp Santander / DIO** — Estrutura e desafio do projeto.
+
+---
+
+## 📂 Estrutura do Repositório
 
 ---
 
