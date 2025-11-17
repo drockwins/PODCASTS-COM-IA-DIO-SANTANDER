@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/drockwins/PODCASTS-COM-IA-DIO-SANTANDER/main/IAPODCASTBANNER.png" width="100%">
+</p>
+
 # 🎙️ PODCASTS COM IA — DIO + Santander  
 Projeto desenvolvido durante o bootcamp do Santander na DIO, explorando o uso de Inteligência Artificial Generativa para criar um podcast completo — desde o roteiro até a narração e edição final.
 
