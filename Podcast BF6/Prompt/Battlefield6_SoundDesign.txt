@@ -1,0 +1,33 @@
+[Audio Direction Script – For ElevenLabs Sound Effects Layer]
+
+INTRO:
+- [SFX: electronic synth intro music – upbeat, 5 seconds]
+- [SFX: soft ambient crowd murmur under intro voice]
+- Transition to [SFX: subtle battlefield hum — wind + faint drones]
+
+SEGMENT 1 – INTRODUCTION:
+- Jason intro: add light reverb room tone
+- Small applause sting (short burst)
+- Transition sound: [SFX: digital “whoosh” cue]
+
+SEGMENT 2 – DISCUSSION:
+- Light ambient background (soft room tone)
+- During “RedSec environment” talk: add faint battlefield hum + occasional metallic creak
+- Short tension stings during “chaos” and “tactics” moments
+- Mid-segment laugh moments: insert subtle chuckle crowd effect (low volume)
+
+SEGMENT 3 – ACTION MOMENT:
+- [SFX: distant explosions, muffled gunfire (stereo spread)]
+- Add light heartbeat bass under Everton’s intense story
+- Small fade-in/fade-out to simulate immersion
+- When Jason laughs: fade background to low to focus on laughter
+
+SEGMENT 4 – TEAMWORK AND COMMS:
+- [SFX: light radio static bursts]
+- [SFX: quick ping tone + radio chatter snippets]
+- Transition whoosh between scenes
+
+SEGMENT 5 – CLOSING:
+- [SFX: upbeat electronic outro music starts softly, builds up 10s]
+- [SFX: wind fade + synth shimmer for closing effect]
+- End: fade all sounds to silence in 3 seconds
