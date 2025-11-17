@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drockwins/PODCASTS-COM-IA-DIO-SANTANDER/main/IAPODCASTBANNER.png" width="100%">
+  <img src="https://github.com/drockwins/PODCASTS-COM-IA-DIO-SANTANDER/blob/6d895641da727a80b5e7dd2d3b0665a38e360d08/IAPODCASTBANNER" width="100%">
 </p>
 
 # 🎙️ PODCASTS COM IA — DIO + Santander  
